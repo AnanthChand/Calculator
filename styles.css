@@ -20,8 +20,12 @@ body {
   justify-content: center
 }
 
-.entire .name {
-  
+.entire .name h1{
+  position: absolute;
+  left: 5%;
+  font-family: 'Roboto Mono', monospace !important;
+  border: 5px solid black;
+  padding: 5px;
 }
 
 
